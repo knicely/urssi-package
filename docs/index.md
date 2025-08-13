@@ -3,6 +3,9 @@
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Testy MacTesterson
+* This section was created to test editing of the index.md file and its effect on the website. 
+* When doing this, you'll need multiple terminals open. 
+    * One to run the website; another to continue working. 
 
 ## Commands
 
