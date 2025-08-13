@@ -16,6 +16,7 @@ requires-python = ">=3.10"
 dependencies = [
     "scikit-image",
 ]
+because = "why?"
 
 [project.optional-dependencies]
 examples = [
