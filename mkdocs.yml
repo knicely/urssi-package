@@ -1,0 +1,4 @@
+site_name: Knicely's URSSI Package Documentation 
+site_url: https://knicely.github.io/urssi-package
+theme: 
+  name: material
